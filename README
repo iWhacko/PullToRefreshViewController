@@ -1,0 +1,13 @@
+PullToRefreshViewController based on:
+
+Enormego's EGOTableViewPullRefresh:
+http://github.com/enormego/EGOTableViewPullRefresh
+
+And: dropnik's suggested changed to make it more MVC:
+http://www.drobnik.com/touch/2009/12/how-to-make-a-pull-to-reload-tableview-just-like-tweetie-2/
+
+pulled the source from DBloete's ioctocat repo:
+http://github.com/dbloete/ioctocat
+
+
+I just wanted to make it easier for people to use these classes, and not have to check out lot's of different sources. 
